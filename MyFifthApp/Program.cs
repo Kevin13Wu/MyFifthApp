@@ -4,3 +4,4 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 System.Console.WriteLine("Welcome to the Mars!");
+System.Console.WriteLine("Hello from Earth~~~~");
