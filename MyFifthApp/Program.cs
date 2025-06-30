@@ -2,7 +2,7 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, John!");
+Console.WriteLine("Hello, June!");
 System.Console.WriteLine("Welcome to the Mars!");
 System.Console.WriteLine("Hello from Earth~~~~");
 System.Console.WriteLine("Hello Earth, How are you?");
